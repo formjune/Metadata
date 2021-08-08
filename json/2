@@ -1,0 +1,56 @@
+{
+  "name": "Rebel Kid #2",
+  "tokenId": 2,
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/2.png",
+  "description": "rebel kids description",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "morning sky"
+    },
+    {
+      "trait_type": "body",
+      "value": "naked"
+    },
+    {
+      "trait_type": "lips",
+      "value": "sad"
+    },
+    {
+      "trait_type": "hair",
+      "value": "simple purple and purple mallet bang"
+    },
+    {
+      "trait_type": "shirt",
+      "value": "black turtleneck"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "british bomber"
+    },
+    {
+      "trait_type": "ears",
+      "value": "big"
+    },
+    {
+      "trait_type": "nose",
+      "value": "brutal man"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "asian blue lightning"
+    },
+    {
+      "trait_type": "eyebrows",
+      "value": "men"
+    },
+    {
+      "trait_type": "hands",
+      "value": "frog witch"
+    },
+    {
+      "trait_type": "piercing",
+      "value": "piercing bridge"
+    }
+  ]
+}

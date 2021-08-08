@@ -1,0 +1,56 @@
+{
+  "name": "Rebel Kid #1",
+  "tokenId": 1,
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/1.png",
+  "description": "rebel kids description",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "grandma toothbrush"
+    },
+    {
+      "trait_type": "body",
+      "value": "naked"
+    },
+    {
+      "trait_type": "lips",
+      "value": "black lipstick"
+    },
+    {
+      "trait_type": "hair",
+      "value": "braids blue and blue forehead"
+    },
+    {
+      "trait_type": "shirt",
+      "value": "no sleeves"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "black leather coat"
+    },
+    {
+      "trait_type": "ears",
+      "value": "small tunnels"
+    },
+    {
+      "trait_type": "nose",
+      "value": "simple"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "radiant green"
+    },
+    {
+      "trait_type": "eyebrows",
+      "value": "black"
+    },
+    {
+      "trait_type": "chokers",
+      "value": "pink heart"
+    },
+    {
+      "trait_type": "piercing",
+      "value": "piercing bridge"
+    }
+  ]
+}
