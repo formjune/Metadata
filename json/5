@@ -1,7 +1,7 @@
 {
-  "name": "Rebel Kid #2",
-  "tokenId": 2,
-  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "name": "Rebel Kid #5",
+  "tokenId": 5,
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/5.png",
   "description": "rebel kids description",
   "attributes": [
     {
@@ -10,55 +10,59 @@
     },
     {
       "trait_type": "body",
-      "value": "pink mesh"
+      "value": "naked"
     },
     {
       "trait_type": "lips",
-      "value": "black lipstick"
+      "value": "puffy man"
     },
     {
       "trait_type": "hair",
-      "value": "long puffy tales and black forehead"
+      "value": "hair mcr red and red mcr"
     },
     {
       "trait_type": "shirt",
-      "value": "no sleeves"
+      "value": "hippi sleaves black"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "british bomber"
     },
     {
       "trait_type": "ears",
       "value": "big"
     },
     {
-      "trait_type": "earrings",
-      "value": "rings"
-    },
-    {
       "trait_type": "nose",
-      "value": "ring"
+      "value": "another wide"
     },
     {
       "trait_type": "eyes",
-      "value": "dark circle"
+      "value": "craw"
     },
     {
       "trait_type": "eyebrows",
       "value": "swing incident"
     },
     {
+      "trait_type": "glasses",
+      "value": "round red"
+    },
+    {
       "trait_type": "neckless",
-      "value": "neckless pentagram"
+      "value": "krest"
     },
     {
       "trait_type": "chokers",
-      "value": "pink heart"
+      "value": "black heart"
     },
     {
       "trait_type": "hands",
-      "value": "tarantula"
+      "value": "palo santo"
     },
     {
       "trait_type": "piercing",
-      "value": "piercing bridge"
+      "value": "piercing cheek bones"
     }
   ]
 }

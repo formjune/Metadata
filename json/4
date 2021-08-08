@@ -1,7 +1,7 @@
 {
-  "name": "Rebel Kid #1",
-  "tokenId": 1,
-  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/1.png",
+  "name": "Rebel Kid #4",
+  "tokenId": 4,
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/4.png",
   "description": "rebel kids description",
   "attributes": [
     {
@@ -10,39 +10,43 @@
     },
     {
       "trait_type": "body",
-      "value": "black mesh"
+      "value": "naked"
     },
     {
       "trait_type": "lips",
-      "value": "sad"
+      "value": "black lipstick"
     },
     {
       "trait_type": "hair",
-      "value": "mallet and lime mallet bang"
+      "value": "braids black and black forehead"
     },
     {
       "trait_type": "shirt",
-      "value": "black turtleneck"
+      "value": "cottage core"
     },
     {
       "trait_type": "ears",
       "value": "small"
     },
     {
+      "trait_type": "earrings",
+      "value": "rings"
+    },
+    {
       "trait_type": "nose",
-      "value": "simple"
+      "value": "wide"
     },
     {
       "trait_type": "eyes",
-      "value": "eyes men tired eyes"
+      "value": "asian blue lightning"
     },
     {
       "trait_type": "eyebrows",
-      "value": "men"
+      "value": "white"
     },
     {
       "trait_type": "piercing",
-      "value": "piercing cheek bones"
+      "value": "piercing lover lip"
     }
   ]
 }

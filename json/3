@@ -1,7 +1,7 @@
 {
-  "name": "Rebel Kid #2",
-  "tokenId": 2,
-  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "name": "Rebel Kid #3",
+  "tokenId": 3,
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/3.png",
   "description": "rebel kids description",
   "attributes": [
     {
@@ -10,55 +10,55 @@
     },
     {
       "trait_type": "body",
-      "value": "pink mesh"
+      "value": "black mesh"
     },
     {
       "trait_type": "lips",
-      "value": "black lipstick"
+      "value": "puffy"
     },
     {
       "trait_type": "hair",
-      "value": "long puffy tales and black forehead"
+      "value": "simple purple and purple mallet bang"
     },
     {
       "trait_type": "shirt",
-      "value": "no sleeves"
+      "value": "withholes"
     },
     {
       "trait_type": "ears",
-      "value": "big"
+      "value": "small"
     },
     {
       "trait_type": "earrings",
-      "value": "rings"
+      "value": "tear"
     },
     {
       "trait_type": "nose",
-      "value": "ring"
+      "value": "cute"
     },
     {
       "trait_type": "eyes",
-      "value": "dark circle"
+      "value": "acid blink"
     },
     {
       "trait_type": "eyebrows",
-      "value": "swing incident"
+      "value": "white"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "girafe"
     },
     {
       "trait_type": "neckless",
-      "value": "neckless pentagram"
+      "value": "neckless pearl"
     },
     {
       "trait_type": "chokers",
       "value": "pink heart"
     },
     {
-      "trait_type": "hands",
-      "value": "tarantula"
-    },
-    {
       "trait_type": "piercing",
-      "value": "piercing bridge"
+      "value": "piercing lover lip"
     }
   ]
 }

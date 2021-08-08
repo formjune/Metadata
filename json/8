@@ -1,7 +1,7 @@
 {
-  "name": "Rebel Kid #2",
-  "tokenId": 2,
-  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "name": "Rebel Kid #8",
+  "tokenId": 8,
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/8.png",
   "description": "rebel kids description",
   "attributes": [
     {
@@ -14,19 +14,23 @@
     },
     {
       "trait_type": "lips",
-      "value": "black lipstick"
+      "value": "wide"
     },
     {
       "trait_type": "hair",
-      "value": "long puffy tales and black forehead"
+      "value": "blackballs and black forehead"
     },
     {
       "trait_type": "shirt",
-      "value": "no sleeves"
+      "value": "night club"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "jackets mcr suit"
     },
     {
       "trait_type": "ears",
-      "value": "big"
+      "value": "small"
     },
     {
       "trait_type": "earrings",
@@ -34,27 +38,23 @@
     },
     {
       "trait_type": "nose",
-      "value": "ring"
+      "value": "small"
     },
     {
       "trait_type": "eyes",
-      "value": "dark circle"
+      "value": "radiant blue"
     },
     {
       "trait_type": "eyebrows",
       "value": "swing incident"
     },
     {
-      "trait_type": "neckless",
-      "value": "neckless pentagram"
-    },
-    {
       "trait_type": "chokers",
-      "value": "pink heart"
+      "value": "black heart"
     },
     {
       "trait_type": "hands",
-      "value": "tarantula"
+      "value": "cursed book"
     },
     {
       "trait_type": "piercing",

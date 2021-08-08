@@ -1,28 +1,28 @@
 {
-  "name": "Rebel Kid #2",
-  "tokenId": 2,
-  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "name": "Rebel Kid #9",
+  "tokenId": 9,
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/9.png",
   "description": "rebel kids description",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "dark corner"
+      "value": "test"
     },
     {
       "trait_type": "body",
-      "value": "pink mesh"
+      "value": "naked"
     },
     {
       "trait_type": "lips",
-      "value": "black lipstick"
+      "value": "mean"
     },
     {
       "trait_type": "hair",
-      "value": "long puffy tales and black forehead"
+      "value": "hair mcr red and red mcr"
     },
     {
       "trait_type": "shirt",
-      "value": "no sleeves"
+      "value": "alco"
     },
     {
       "trait_type": "ears",
@@ -30,31 +30,23 @@
     },
     {
       "trait_type": "earrings",
-      "value": "rings"
+      "value": "kross"
     },
     {
       "trait_type": "nose",
-      "value": "ring"
+      "value": "wide"
     },
     {
       "trait_type": "eyes",
-      "value": "dark circle"
+      "value": "asian blue lightning"
     },
     {
       "trait_type": "eyebrows",
       "value": "swing incident"
     },
     {
-      "trait_type": "neckless",
-      "value": "neckless pentagram"
-    },
-    {
-      "trait_type": "chokers",
-      "value": "pink heart"
-    },
-    {
       "trait_type": "hands",
-      "value": "tarantula"
+      "value": "craw"
     },
     {
       "trait_type": "piercing",
