@@ -1,7 +1,7 @@
 {
-  "name": "Rebel Kid #2",
+  "name": "Rick Astley",
   "tokenId": 2,
-  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "external_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   "description": "rebel kids description",
   "attributes": [
     {
