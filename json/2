@@ -8,7 +8,7 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "dark corner"
+      "value": "test"
     },
     {
       "trait_type": "body",
@@ -20,23 +20,27 @@
     },
     {
       "trait_type": "hair",
-      "value": "long black and black forehead"
+      "value": "braids black and black forehead"
     },
     {
       "trait_type": "shirt",
-      "value": "black simple"
+      "value": "blank shirt"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "jackets mcr suit"
     },
     {
       "trait_type": "ears",
-      "value": "big tunnels"
+      "value": "small"
     },
     {
       "trait_type": "nose",
-      "value": "ring"
+      "value": "simple"
     },
     {
       "trait_type": "eyes",
-      "value": "craw"
+      "value": "radiant blue"
     },
     {
       "trait_type": "eyebrows",
@@ -44,11 +48,11 @@
     },
     {
       "trait_type": "neckless",
-      "value": "neckless pentagram"
+      "value": "neckless pearl"
     },
     {
       "trait_type": "piercing",
-      "value": "piercing cheek bones"
+      "value": "piercing lover lip"
     }
   ]
 }
