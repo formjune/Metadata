@@ -3,11 +3,12 @@
   "tokenId": 2,
   "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/2.png",
   "external_url": "https://testcoinr.herokuapp.com/",
-  "description": "\u0447\u0438\u0442\u0430\u0439 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043c\u0435\u043d\u044f <a href=\"https://testcoinr.herokuapp.com/\">2</a>",
+  "external_link": "https://testcoinr.herokuapp.com/",
+  "description": "\u0433\u043b\u044f\u043d\u044c [\u043c\u043e\u0439 \u0441\u0430\u0439\u0442](https://testcoinr.herokuapp.com/)",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "test"
+      "value": "dark corner"
     },
     {
       "trait_type": "body",
@@ -15,27 +16,19 @@
     },
     {
       "trait_type": "lips",
-      "value": "simple"
+      "value": "red lipstick"
     },
     {
       "trait_type": "hair",
-      "value": "simple purple and purple mallet bang"
+      "value": "long black and black forehead"
     },
     {
       "trait_type": "shirt",
-      "value": "blank shirt"
-    },
-    {
-      "trait_type": "jackets",
-      "value": "british bomber"
+      "value": "black simple"
     },
     {
       "trait_type": "ears",
-      "value": "big"
-    },
-    {
-      "trait_type": "earrings",
-      "value": "rings"
+      "value": "big tunnels"
     },
     {
       "trait_type": "nose",
@@ -43,15 +36,19 @@
     },
     {
       "trait_type": "eyes",
-      "value": "ice"
+      "value": "craw"
     },
     {
       "trait_type": "eyebrows",
-      "value": "black"
+      "value": "swing incident"
+    },
+    {
+      "trait_type": "neckless",
+      "value": "neckless pentagram"
     },
     {
       "trait_type": "piercing",
-      "value": "piercing bridge"
+      "value": "piercing cheek bones"
     }
   ]
 }

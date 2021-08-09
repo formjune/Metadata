@@ -3,35 +3,28 @@
   "tokenId": 1,
   "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/1.png",
   "external_url": "https://testcoinr.herokuapp.com/",
-  "description": "\u0447\u0438\u0442\u0430\u0439 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043c\u0435\u043d\u044f <a href=\"https://testcoinr.herokuapp.com/\">1</a>",
+  "external_link": "https://testcoinr.herokuapp.com/",
+  "description": "\u0433\u043b\u044f\u043d\u044c [\u043c\u043e\u0439 \u0441\u0430\u0439\u0442](https://testcoinr.herokuapp.com/)",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "test"
+      "value": "dark corner"
     },
     {
       "trait_type": "body",
-      "value": "naked"
+      "value": "pink mesh"
     },
     {
       "trait_type": "lips",
-      "value": "simple"
+      "value": "puffy"
     },
     {
       "trait_type": "hair",
-      "value": "long dark purple and dark purple bang"
+      "value": "two kosicki black and two kosicki black"
     },
     {
       "trait_type": "shirt",
-      "value": "night club"
-    },
-    {
-      "trait_type": "bdsm",
-      "value": "belt3"
-    },
-    {
-      "trait_type": "jackets",
-      "value": "black leather coat"
+      "value": "logo green"
     },
     {
       "trait_type": "ears",
@@ -39,27 +32,19 @@
     },
     {
       "trait_type": "nose",
-      "value": "men"
+      "value": "another wide"
     },
     {
       "trait_type": "eyes",
-      "value": "dark circle"
+      "value": "acid blink"
     },
     {
       "trait_type": "eyebrows",
-      "value": "swing incident"
+      "value": "thin"
     },
     {
       "trait_type": "neckless",
-      "value": "neckless pentagram"
-    },
-    {
-      "trait_type": "chokers",
-      "value": "pink heart"
-    },
-    {
-      "trait_type": "hands",
-      "value": "frog witch"
+      "value": "krest"
     },
     {
       "trait_type": "piercing",
