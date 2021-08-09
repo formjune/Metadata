@@ -1,28 +1,33 @@
 {
-  "name": "Rick Astley",
+  "name": "Rebel Kid #2",
   "tokenId": 2,
-  "external_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  "description": "rebel kids description",
+  "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/2.png",
+  "external_url": "https://testcoinr.herokuapp.com/",
+  "description": "\u0447\u0438\u0442\u0430\u0439 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043c\u0435\u043d\u044f <a href=\"https://testcoinr.herokuapp.com/\">2</a>",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "dark corner"
+      "value": "test"
     },
     {
       "trait_type": "body",
-      "value": "pink mesh"
+      "value": "naked"
     },
     {
       "trait_type": "lips",
-      "value": "black lipstick"
+      "value": "simple"
     },
     {
       "trait_type": "hair",
-      "value": "long puffy tales and black forehead"
+      "value": "simple purple and purple mallet bang"
     },
     {
       "trait_type": "shirt",
-      "value": "no sleeves"
+      "value": "blank shirt"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "british bomber"
     },
     {
       "trait_type": "ears",
@@ -38,23 +43,11 @@
     },
     {
       "trait_type": "eyes",
-      "value": "dark circle"
+      "value": "ice"
     },
     {
       "trait_type": "eyebrows",
-      "value": "swing incident"
-    },
-    {
-      "trait_type": "neckless",
-      "value": "neckless pentagram"
-    },
-    {
-      "trait_type": "chokers",
-      "value": "pink heart"
-    },
-    {
-      "trait_type": "hands",
-      "value": "tarantula"
+      "value": "black"
     },
     {
       "trait_type": "piercing",

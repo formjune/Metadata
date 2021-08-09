@@ -2,27 +2,36 @@
   "name": "Rebel Kid #1",
   "tokenId": 1,
   "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/1.png",
-  "description": "rebel kids description",
+  "external_url": "https://testcoinr.herokuapp.com/",
+  "description": "\u0447\u0438\u0442\u0430\u0439 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043c\u0435\u043d\u044f <a href=\"https://testcoinr.herokuapp.com/\">1</a>",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "dark corner"
+      "value": "test"
     },
     {
       "trait_type": "body",
-      "value": "black mesh"
+      "value": "naked"
     },
     {
       "trait_type": "lips",
-      "value": "sad"
+      "value": "simple"
     },
     {
       "trait_type": "hair",
-      "value": "mallet and lime mallet bang"
+      "value": "long dark purple and dark purple bang"
     },
     {
       "trait_type": "shirt",
-      "value": "black turtleneck"
+      "value": "night club"
+    },
+    {
+      "trait_type": "bdsm",
+      "value": "belt3"
+    },
+    {
+      "trait_type": "jackets",
+      "value": "black leather coat"
     },
     {
       "trait_type": "ears",
@@ -30,15 +39,27 @@
     },
     {
       "trait_type": "nose",
-      "value": "simple"
+      "value": "men"
     },
     {
       "trait_type": "eyes",
-      "value": "eyes men tired eyes"
+      "value": "dark circle"
     },
     {
       "trait_type": "eyebrows",
-      "value": "men"
+      "value": "swing incident"
+    },
+    {
+      "trait_type": "neckless",
+      "value": "neckless pentagram"
+    },
+    {
+      "trait_type": "chokers",
+      "value": "pink heart"
+    },
+    {
+      "trait_type": "hands",
+      "value": "frog witch"
     },
     {
       "trait_type": "piercing",
