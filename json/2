@@ -4,7 +4,7 @@
   "image": "https://raw.githubusercontent.com/formjune/Metadata/main/tokens/2.png",
   "external_url": "https://testcoinr.herokuapp.com/",
   "external_link": "https://testcoinr.herokuapp.com/",
-  "description": "\u0433\u043b\u044f\u043d\u044c [\u043c\u043e\u0439 \u0441\u0430\u0439\u0442](https://testcoinr.herokuapp.com/)",
+  "description": "###Hi, my name is kid:\n1. cool\n2. hounted\n[check info](https://testcoinr.herokuapp.com/)\n",
   "attributes": [
     {
       "trait_type": "background",
@@ -12,47 +12,43 @@
     },
     {
       "trait_type": "body",
-      "value": "naked"
+      "value": "pink mesh"
     },
     {
       "trait_type": "lips",
-      "value": "red lipstick"
+      "value": "puffy"
     },
     {
       "trait_type": "hair",
-      "value": "braids black and black forehead"
+      "value": "curly beret and curly black"
     },
     {
       "trait_type": "shirt",
-      "value": "blank shirt"
-    },
-    {
-      "trait_type": "jackets",
-      "value": "jackets mcr suit"
+      "value": "night club"
     },
     {
       "trait_type": "ears",
-      "value": "small"
+      "value": "big tunnels"
     },
     {
       "trait_type": "nose",
-      "value": "simple"
+      "value": "cute"
     },
     {
       "trait_type": "eyes",
-      "value": "radiant blue"
+      "value": "craw"
     },
     {
       "trait_type": "eyebrows",
-      "value": "swing incident"
+      "value": "thin"
     },
     {
-      "trait_type": "neckless",
-      "value": "neckless pearl"
+      "trait_type": "chokers",
+      "value": "pink heart"
     },
     {
       "trait_type": "piercing",
-      "value": "piercing lover lip"
+      "value": "piercing bridge"
     }
   ]
 }
