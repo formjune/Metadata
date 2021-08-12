@@ -1,1 +1,1 @@
-{"description": "opensea live!", "image": ipfs://QmWiXWh7QxHHtFpioPvLGS4zNrskCQp9jjkhQupawtZpAC/1.png}
+{"tokenId": 1, "name": "Rebel Cat #1", "image": "ipfs://QmWiXWh7QxHHtFpioPvLGS4zNrskCQp9jjkhQupawtZpAC/600.png", "description": "new description", "attributes": [{"trait_type": "body", "value": "white fur"}, {"trait_type": "bg", "value": "purple"}, {"trait_type": "collar", "value": "bow black"}, {"trait_type": "eyes", "value": "starry yellow"}, {"trait_type": "wings", "value": "demon"}]}
