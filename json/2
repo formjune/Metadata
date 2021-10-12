@@ -1,1 +1,69 @@
-{"tokenId": 1, "name": "Moon Loot #1", "image": "1.png", "description": "# trident\nsummons a whale that will fall from the sky on enemies!\n# saitot mask\ngives players the ability to throw their enemies into the void!\n# chemistry\npants that change the chemical code of the environment (the enemy's weapon becomes weaker, the character's health increases)\n# pin\ncute penguin that increases the chance of a successful hack\n# little champ\nwe store explosives in wooden boxes. sounds safe\n# laughing bomb\na funny-looking, but dangerous bomb in action, the opponent will not laugh when it flies into it\n# witch hunter\nstrikes killer lasers\n# snakes\nnot all  are poisonous! these  can hypnotize all enemies by singing songs\n# a circular saw\ncut enemies arms up to 2 meters distance\n# bucket\ncasual and great protection against head\u2019s blows\n# skyball\nequipped with a powerful laser in his eye, so it will be the last thing you come across face to face\n# flamer\nheats any situation up to its limit", "attributes": [{"trait_type": "extra", "value": "trident"}, {"trait_type": "extra", "value": "saitot mask"}, {"trait_type": "pants", "value": "chemistry"}, {"trait_type": "pets", "value": "pin"}, {"trait_type": "pills", "value": "little champ"}, {"trait_type": "throwables", "value": "laughing bomb"}, {"trait_type": "weapons", "value": "witch hunter"}, {"trait_type": "traps", "value": "snakes"}, {"trait_type": "helmet", "value": "a circular saw"}, {"trait_type": "helmet", "value": "bucket"}, {"trait_type": "drone", "value": "skyball"}, {"trait_type": "drone", "value": "flamer"}, {"trait_type": "size", "value": "M", "display_value": "M"}, {"trait_type": "rarity", "value": "common"}]}
+{
+ "tokenId": 25,
+ "name": "Moon Loot #25",
+ "image": "25.png",
+ "description": "# buzz farter\nto infinity and beyond!\n# dark force\ngives players the ability to choke enemies to death!\n# burning barrel\nit's very hot! you can't get close, but you can get warm at a distance!\n# iron legs\nheavy armour pants\n# healed\na spare living first aid kit. can be used 1 time\n# little champ\nwe store explosives in wooden boxes. sounds safe\n# boomer\nsomething new every time. attractive\n# burning knife\n throwing knife smeared with fuel, burns 1 opponent when hit\n# witch hunter\nstrikes killer lasers\n# forester\nscalps the victim\n# bucket\ncasual and great protection against head\u2019s blows\n# flamer\nheats any situation up to its limit",
+ "attributes": [
+  {
+   "trait_type": "armor",
+   "value": "buzz farter"
+  },
+  {
+   "trait_type": "extra",
+   "value": "dark force"
+  },
+  {
+   "trait_type": "extra",
+   "value": "ultrawarm shatter"
+  },
+  {
+   "trait_type": "fences",
+   "value": "burning barrel"
+  },
+  {
+   "trait_type": "pants",
+   "value": "iron legs"
+  },
+  {
+   "trait_type": "pets",
+   "value": "healed"
+  },
+  {
+   "trait_type": "pills",
+   "value": "little champ"
+  },
+  {
+   "trait_type": "pills",
+   "value": "boomer"
+  },
+  {
+   "trait_type": "throwables",
+   "value": "burning knife"
+  },
+  {
+   "trait_type": "weapons",
+   "value": "witch hunter"
+  },
+  {
+   "trait_type": "weapons",
+   "value": "forester"
+  },
+  {
+   "trait_type": "helmet",
+   "value": "bucket"
+  },
+  {
+   "trait_type": "drone",
+   "value": "flamer"
+  },
+  {
+   "trait_type": "size",
+   "value": "M",
+   "display_value": "M"
+  },
+  {
+   "trait_type": "rarity",
+   "value": "common"
+  }
+ ]
+}
