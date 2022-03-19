@@ -1,69 +1,11 @@
 {
- "tokenId": 25,
- "name": "Moon Loot #25",
- "image": "25.png",
- "description": "# buzz farter\nto infinity and beyond!\n\n# dark force\ngives players the ability to choke enemies to death!\n\n# burning barrel\nit's very hot! you can't get close, but you can get warm at a distance!\n\n# iron legs\nheavy armour pants\n\n# healed\na spare living first aid kit. can be used 1 time\n\n# little champ\nwe store explosives in wooden boxes. sounds safe\n\n# boomer\nsomething new every time. attractive\n\n# burning knife\n throwing knife smeared with fuel, burns 1 opponent when hit\n\n# witch hunter\nstrikes killer lasers\n\n# forester\nscalps the victim\n\n# bucket\ncasual and great protection against head\u2019s blows\n\n# flamer\nheats any situation up to its limit",
+ "tokenId": 1,
+ "name": "Max Caulfield",
+ "image": "https://i.pinimg.com/originals/83/51/5c/83515c5c72fb767e90ecc0444cb50fe9.jpg",
+ "description": "Max Caulfield for Monkey Game",
  "attributes": [
   {
    "trait_type": "armor",
    "value": "buzz farter"
-  },
-  {
-   "trait_type": "extra",
-   "value": "dark force"
-  },
-  {
-   "trait_type": "extra",
-   "value": "ultrawarm shatter"
-  },
-  {
-   "trait_type": "fences",
-   "value": "burning barrel"
-  },
-  {
-   "trait_type": "pants",
-   "value": "iron legs"
-  },
-  {
-   "trait_type": "pets",
-   "value": "healed"
-  },
-  {
-   "trait_type": "pills",
-   "value": "little champ"
-  },
-  {
-   "trait_type": "pills",
-   "value": "boomer"
-  },
-  {
-   "trait_type": "throwables",
-   "value": "burning knife"
-  },
-  {
-   "trait_type": "weapons",
-   "value": "witch hunter"
-  },
-  {
-   "trait_type": "weapons",
-   "value": "forester"
-  },
-  {
-   "trait_type": "helmet",
-   "value": "bucket"
-  },
-  {
-   "trait_type": "drone",
-   "value": "flamer"
-  },
-  {
-   "trait_type": "size",
-   "value": "M",
-   "display_value": "M"
-  },
-  {
-   "trait_type": "rarity",
-   "value": "common"
-  }
- ]
+  } ]
 }
